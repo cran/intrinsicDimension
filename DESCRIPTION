@@ -1,8 +1,8 @@
 Package: intrinsicDimension
 Type: Package
 Title: Intrinsic Dimension Estimation
-Version: 1.1.0
-Date: 2017-11-15
+Version: 1.2.0
+Date: 2019-05-23
 Author: Kerstin Johnsson, Lund University
 Maintainer: Kerstin Johnsson <kerstin.johnsson@hotmail.com>
 Depends: yaImpute
@@ -10,9 +10,9 @@ Description: A variety of methods for estimating intrinsic dimension of data set
 License: MIT + file LICENSE
 LazyLoad: yes
 RoxygenNote: 6.0.1
-Suggests: knitr, rmarkdown
+Suggests: knitr, rmarkdown, testthat
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2017-11-26 15:36:43 UTC; johnsson
+Packaged: 2019-06-07 10:00:08 UTC; johnsson
 Repository: CRAN
-Date/Publication: 2017-11-26 16:42:55 UTC
+Date/Publication: 2019-06-07 10:20:03 UTC

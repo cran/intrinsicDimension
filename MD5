@@ -1,10 +1,11 @@
-6c8b06413ba9691d292d254ebe7d9cf9 *DESCRIPTION
+6a82358d62ca849ef7178cb608dfd139 *DESCRIPTION
 0909023961bcc997583358e9d2e8f4a9 *LICENSE
-735b10415f23a5ed13c2cc8eb8cda65a *NAMESPACE
+ab2d00df2bdad9174fe3755b38677876 *NAMESPACE
+1c54a6e8637307d9c07ab883fb28c7b7 *NEWS.md
 5aaff068fa4776687f67ce28e032b341 *R/DANCo.R
 505aea9e79725a0806cc1a73cf7c010b *R/DANCoCalibrationData.R
 fbf88cc067b9000a8539d530edade8dd *R/DimEst.R
-433d557162376551cbbf9c96b0ad18b7 *R/ESS.R
+0a383709d93719368fa168b0a9d68c3b *R/ESS.R
 80c417c2c15b6d9be8e5e14f54fa7be0 *R/aux_fun.r
 2ca81c3976bfcd3fd034a8194448a4e3 *R/bs.R
 644b932d25d10aa03c898f0db42fcc7a *R/cube.r
@@ -22,10 +23,10 @@ b76f34a39cff1b7f4c8f38f39f60bd9c *R/nonuniform.r
 e898426bc2c57b263667e3c412f52ada *R/spherical.r
 c04ee0222d07e511e6a801c2560c797f *R/surfaces.r
 afc47b34922ef7a23ec1e4f6a92aa71a *README.md
-521291f64583d697d653cc7b49378615 *build/vignette.rds
+39366c398fa73d2d0cc063c2ebe10f1d *build/vignette.rds
 3a83da5c80ccd312579393add6d7203f *inst/doc/intrinsic-dimension-estimation.R
-fe8905d7b6eb4d7331936e2f8d4404cd *inst/doc/intrinsic-dimension-estimation.Rmd
-1dd6fac8bb30de61e71d5cedd3ea6926 *inst/doc/intrinsic-dimension-estimation.html
+1250ea788914bc5637a8bb2fa2a747c2 *inst/doc/intrinsic-dimension-estimation.Rmd
+760806dcd45028958416095b77e95e85 *inst/doc/intrinsic-dimension-estimation.html
 52e4a90a12c757c41657694765386cfd *man/DANCo.Rd
 9d71174b581485396117540c88d542b7 *man/ESS.Rd
 6eeece2815a77ad1a8163a7e42efec68 *man/M_hein.Rd
@@ -38,6 +39,7 @@ a4cd80104ee0a781deb0e5e378cb6a21 *man/bs.Rd
 bb85e8a2b10f7dbaebe5950cc9869d0d *man/cornerPlane.Rd
 7a2cfe11579dbe5eab6b97400d95b425 *man/cuthplane.Rd
 33d8b373e2046f78f34c777bce7bed7c *man/cuthsphere.Rd
+3910bc6c483a127a7fc54c77b7ea8c74 *man/essReference.Rd
 be1d2d18640dbc8202493296033132dd *man/hcube.Rd
 ae4a7c1e97d0def40b5a8cbbcff81524 *man/ide.Rd
 a061e12e600ca38f17a5bf2f1718b65f *man/intrinsicDimension-package.Rd
@@ -48,4 +50,5 @@ a061e12e600ca38f17a5bf2f1718b65f *man/intrinsicDimension-package.Rd
 ac2d2ebc8d9d00217cf3c88be2c71fd2 *man/oblong.Rd
 38adb976ee29e4a05c773c64bbd2520c *man/swissRoll.Rd
 86793a873150449c360e8ec30822e074 *man/twinPeaks.Rd
-fe8905d7b6eb4d7331936e2f8d4404cd *vignettes/intrinsic-dimension-estimation.Rmd
+31504f7e19e1eae1b1f6f9b414440399 *tests/testthat/test_ess_stable.R
+1250ea788914bc5637a8bb2fa2a747c2 *vignettes/intrinsic-dimension-estimation.Rmd
